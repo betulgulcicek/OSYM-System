@@ -1,0 +1,12 @@
+University;UniID;Department;DepID;Score Type (Q: Quantitative, V: Verbal);Quota;
+GYTE;0;Computer Eng;0;Q;50;
+GYTE;0;Electronics Eng;1;Q;70;
+GYTE;0;Biology;3;Q;50;
+Marmara Un;1;Computer Eng;0;Q;70;
+Marmara Un;1;Mechanical Eng.;4;Q;40;
+Marmara Un;1;Economy;5;V;20;
+Marmara Un;1;Turkish Literature;6;V;10;
+ITU;2;Electronics Eng;1;Q;60;
+ITU;2;Computer Eng;0;Q;30;
+ITU;2;Control Eng;7;Q;10;
+ITU;2;Economy;5;V;20;
